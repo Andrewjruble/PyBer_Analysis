@@ -8,7 +8,7 @@ Using Python, Pandas and Matplotlib, results from a ride-sharing app "Pyber" wer
 
 ## Results
 
-The data can be summarized to draw conclusions based on type of ride. As geopgraphy got more rural, presumably, less total rides and total drivers were available. The average fare per rider ($34.62) and average fare per driver ($55.49) were highest at this range. To contrast, at urban locations, the average fare per ride and average fare per driver were $24.53 and $16.57 respectively. Based on the analysis, rides cost more and pay higher as geography gets more rural. 
+The data can be summarized to draw conclusions based on type of ride. As geopgraphy got more rural, presumably, less total rides and total drivers were available. The average fare per rider ($34.62) and average fare per driver ($55.49) were highest at this range. To contrast, at urban locations, the average fare per ride and average fare per driver were $24.53 and $16.57, respectively. Based on the analysis, rides cost more and pay higher as geography gets more rural with fare per ride going up less proportionally to average fare per driver. 
 
 ![thedataframe](https://github.com/Andrewjruble/PyBer_Analysis/blob/main/Resources/Tableofresults.png) 
 
